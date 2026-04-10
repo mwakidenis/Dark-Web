@@ -6,7 +6,7 @@ name: python script
 
 on:
   schedule:
-    - cron: "*/19 * * * *"
+    - cron: "*/18 * * * *"
   workflow_dispatch:
 
 permissions:
